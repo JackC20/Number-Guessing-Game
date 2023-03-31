@@ -1,0 +1,6 @@
+Player,Wins,Losses,Ties
+Jack,2,0,0
+Lauren,1,1,1
+Owen,2,2,2
+Sam,0,2,0
+owen,0,0,0
